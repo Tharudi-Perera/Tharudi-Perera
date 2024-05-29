@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Tharudi-Perera/Tharudi-Perera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
